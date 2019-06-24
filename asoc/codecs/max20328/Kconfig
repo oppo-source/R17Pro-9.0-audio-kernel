@@ -1,0 +1,6 @@
+#
+# Maxim Integrated Product Sensors
+#
+config SWITCH_MAX20328
+	bool "zte add MAX20328"
+
